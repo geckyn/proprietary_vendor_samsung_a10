@@ -187,8 +187,6 @@ vendor/samsung/a10/proprietary/vendor/etc/plmn_delta_hktw.bin:$(TARGET_COPY_OUT_
 vendor/samsung/a10/proprietary/vendor/etc/plmn_delta_usacdma.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_delta_usacdma.bin \
 vendor/samsung/a10/proprietary/vendor/etc/plmn_delta_usagsm.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_delta_usagsm.bin \
 vendor/samsung/a10/proprietary/vendor/etc/plmn_se13.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_se13.bin \
-vendor/samsung/a10/proprietary/vendor/etc/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt \
-vendor/samsung/a10/proprietary/vendor/etc/public.libraries.txt.backup:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt.backup \
 vendor/samsung/a10/proprietary/vendor/etc/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
 vendor/samsung/a10/proprietary/vendor/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediacodec.policy \
 vendor/samsung/a10/proprietary/vendor/etc/selinux/apm/authorize.xml:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/apm/authorize.xml \
