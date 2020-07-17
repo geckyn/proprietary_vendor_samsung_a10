@@ -77,8 +77,6 @@ vendor/samsung/a10/proprietary/vendor/bin/vndservice:$(TARGET_COPY_OUT_VENDOR)/b
 vendor/samsung/a10/proprietary/vendor/bin/vndservicemanager:$(TARGET_COPY_OUT_VENDOR)/bin/vndservicemanager \
 vendor/samsung/a10/proprietary/vendor/bin/wlbtd:$(TARGET_COPY_OUT_VENDOR)/bin/wlbtd \
 vendor/samsung/a10/proprietary/vendor/bin/wvkprov:$(TARGET_COPY_OUT_VENDOR)/bin/wvkprov \
-vendor/samsung/a10/proprietary/vendor/build.prop:$(TARGET_COPY_OUT_VENDOR)/build.prop \
-vendor/samsung/a10/proprietary/vendor/default.prop:$(TARGET_COPY_OUT_VENDOR)/default.prop \
 vendor/samsung/a10/proprietary/vendor/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/a2dp_audio_policy_configuration.xml \
 vendor/samsung/a10/proprietary/vendor/etc/abox_debug.xml:$(TARGET_COPY_OUT_VENDOR)/etc/abox_debug.xml \
 vendor/samsung/a10/proprietary/vendor/etc/audio_board_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_board_info.xml \
@@ -209,8 +207,6 @@ vendor/samsung/a10/proprietary/vendor/etc/somxreg.conf:$(TARGET_COPY_OUT_VENDOR)
 vendor/samsung/a10/proprietary/vendor/etc/SoundBoosterParam.txt:$(TARGET_COPY_OUT_VENDOR)/etc/SoundBoosterParam.txt \
 vendor/samsung/a10/proprietary/vendor/etc/tms_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/tms_audio_policy_configuration.xml \
 vendor/samsung/a10/proprietary/vendor/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml \
-vendor/samsung/a10/proprietary/vendor/etc/vintf/compatibility_matrix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/compatibility_matrix.xml \
-vendor/samsung/a10/proprietary/vendor/etc/vintf/manifest.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest.xml \
 vendor/samsung/a10/proprietary/vendor/etc/wifi/indoorchannel.info:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/indoorchannel.info \
 vendor/samsung/a10/proprietary/vendor/etc/wifi/mx:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx \
 vendor/samsung/a10/proprietary/vendor/etc/wifi/mx140.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140.bin \
