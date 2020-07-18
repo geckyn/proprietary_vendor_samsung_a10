@@ -412,14 +412,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a10/proprietary/vendor/lib/vndk/libstagefright_soft_vorbisdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/vndk/libstagefright_soft_vorbisdec.so \
     vendor/samsung/a10/proprietary/vendor/lib/vndk/libstagefright_xmlparser.so:$(TARGET_COPY_OUT_VENDOR)/lib/vndk/libstagefright_xmlparser.so \
     vendor/samsung/a10/proprietary/vendor/lib/vndk/libtinyalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/vndk/libtinyalsa.so \
-    vendor/samsung/a10/proprietary/vendor/manifest.xml:$(TARGET_COPY_OUT_VENDOR)/manifest.xml \
-    vendor/samsung/a10/proprietary/vendor/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk \
-    vendor/samsung/a10/proprietary/vendor/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk \
-    vendor/samsung/a10/proprietary/vendor/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk \
-    vendor/samsung/a10/proprietary/vendor/overlay/framework-res__auto_generated_rro.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/framework-res__auto_generated_rro.apk \
-    vendor/samsung/a10/proprietary/vendor/overlay/SysuiDarkTheme/SysuiDarkThemeOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/SysuiDarkTheme/SysuiDarkThemeOverlay.apk \
-    vendor/samsung/a10/proprietary/vendor/overlay/SysuiHideNotch/SysuiHideNotchOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/SysuiHideNotch/SysuiHideNotchOverlay.apk \
-    vendor/samsung/a10/proprietary/vendor/overlay/SysuiHideNotchWithoutCornerRound/SysuiHideNotchWithoutCornerRoundOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/SysuiHideNotchWithoutCornerRound/SysuiHideNotchWithoutCornerRoundOverlay.apk \
     vendor/samsung/a10/proprietary/vendor/tee/00000000-0000-0000-0000-000000000046:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000000046 \
     vendor/samsung/a10/proprietary/vendor/tee/00000000-0000-0000-0000-00000000dead:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-00000000dead \
     vendor/samsung/a10/proprietary/vendor/tee/00000000-0000-0000-0000-000000010081:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000010081 \
