@@ -93,7 +93,6 @@ vendor/samsung/a10/proprietary/vendor/etc/default_volume_tables.xml:$(TARGET_COP
 vendor/samsung/a10/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
 vendor/samsung/a10/proprietary/vendor/etc/fs_config_dirs:$(TARGET_COPY_OUT_VENDOR)/etc/fs_config_dirs \
 vendor/samsung/a10/proprietary/vendor/etc/fs_config_files:$(TARGET_COPY_OUT_VENDOR)/etc/fs_config_files \
-vendor/samsung/a10/proprietary/vendor/etc/fstab.exynos7885:$(TARGET_COPY_OUT_VENDOR)/etc/fstab.exynos7885 \
 vendor/samsung/a10/proprietary/vendor/etc/gnss/ca.pem:$(TARGET_COPY_OUT_VENDOR)/etc/gnss/ca.pem \
 vendor/samsung/a10/proprietary/vendor/etc/gnss/gps.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/gnss/gps.cfg \
 vendor/samsung/a10/proprietary/vendor/etc/group:$(TARGET_COPY_OUT_VENDOR)/etc/group \
@@ -116,12 +115,6 @@ vendor/samsung/a10/proprietary/vendor/etc/init/android.hardware.sensors@1.0-serv
 vendor/samsung/a10/proprietary/vendor/etc/init/android.hardware.thermal@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.thermal@1.0-service.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/android.hardware.wifi@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.wifi@1.0-service.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/hostapd.android.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/hostapd.android.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/init.baseband.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.baseband.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/init.exynos7885.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.exynos7885.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/init.exynos7885.usb.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.exynos7885.usb.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/init.gps.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.gps.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/init.vendor.rilchip.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.rilchip.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/init.vendor.rilcommon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.rilcommon.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/pa_daemon_teegris.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/pa_daemon_teegris.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/secure_storage_daemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/secure_storage_daemon.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/vendor.samsung.hardware.camera.provider@2.4-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung.hardware.camera.provider@2.4-service.rc \
@@ -137,8 +130,6 @@ vendor/samsung/a10/proprietary/vendor/etc/init/vendor.samsung.security.wvkprov_s
 vendor/samsung/a10/proprietary/vendor/etc/init/vendor.samsung_slsi.hardware.configstore@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung_slsi.hardware.configstore@1.0-service.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/vndservicemanager.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vndservicemanager.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/wifi.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi.rc \
-vendor/samsung/a10/proprietary/vendor/etc/init/wifi_slsi.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi_slsi.rc \
 vendor/samsung/a10/proprietary/vendor/etc/init/wsm-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wsm-service.rc \
 vendor/samsung/a10/proprietary/vendor/etc/media_codecs_dolby_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_dolby_audio.xml \
 vendor/samsung/a10/proprietary/vendor/etc/media_codecs_google_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_google_audio.xml \
@@ -464,8 +455,4 @@ vendor/samsung/a10/proprietary/vendor/tee/driver/00000000-0000-0000-0000-0053545
 vendor/samsung/a10/proprietary/vendor/tee/driver/00000000-0000-0000-0000-4d53546d7374:$(TARGET_COPY_OUT_VENDOR)/tee/driver/00000000-0000-0000-0000-4d53546d7374 \
 vendor/samsung/a10/proprietary/vendor/tee/driver/00000000-0000-0000-0000-564c544b4456:$(TARGET_COPY_OUT_VENDOR)/tee/driver/00000000-0000-0000-0000-564c544b4456 \
 vendor/samsung/a10/proprietary/vendor/tee/ffffffff-0000-0000-0000-000000000030:$(TARGET_COPY_OUT_VENDOR)/tee/ffffffff-0000-0000-0000-000000000030 \
-vendor/samsung/a10/proprietary/vendor/tee/tui/resolution_common/ID00000100:$(TARGET_COPY_OUT_VENDOR)/tee/tui/resolution_common/ID00000100 \
-vendor/samsung/a10/proprietary/vendor/ueventd.rc:$(TARGET_COPY_OUT_VENDOR)/ueventd.rc \
-
-
-PRODUCT_PACKAGES += \
+vendor/samsung/a10/proprietary/vendor/tee/tui/resolution_common/ID00000100:$(TARGET_COPY_OUT_VENDOR)/tee/tui/resolution_common/ID00000100
