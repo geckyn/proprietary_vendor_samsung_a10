@@ -68,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a10/proprietary/vendor/bin/tzdaemon:$(TARGET_COPY_OUT_VENDOR)/bin/tzdaemon \
     vendor/samsung/a10/proprietary/vendor/bin/tzts_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/tzts_daemon \
     vendor/samsung/a10/proprietary/vendor/bin/vendor.samsung.security.drk@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/vendor.samsung.security.drk@1.0-service \
-    vendor/samsung/a10/proprietary/vendor/bin/vendor.samsung.security.proca@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/vendor.samsung.security.proca@1.0-service \
     vendor/samsung/a10/proprietary/vendor/bin/vendor.samsung.security.sem@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/vendor.samsung.security.sem@1.0-service \
     vendor/samsung/a10/proprietary/vendor/bin/vendor.samsung.security.skpm@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/vendor.samsung.security.skpm@1.0-service \
     vendor/samsung/a10/proprietary/vendor/bin/vendor.samsung.security.wsm@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/vendor.samsung.security.wsm@1.0-service \
@@ -140,7 +139,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a10/proprietary/vendor/etc/media_codecs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs.xml \
     vendor/samsung/a10/proprietary/vendor/etc/media_profiles_V1_0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_V1_0.xml \
     vendor/samsung/a10/proprietary/vendor/etc/mkshrc:$(TARGET_COPY_OUT_VENDOR)/etc/mkshrc \
-    vendor/samsung/a10/proprietary/vendor/etc/NOTICE.xml.gz:$(TARGET_COPY_OUT_VENDOR)/etc/NOTICE.xml.gz \
     vendor/samsung/a10/proprietary/vendor/etc/passwd:$(TARGET_COPY_OUT_VENDOR)/etc/passwd \
     vendor/samsung/a10/proprietary/vendor/etc/permissions/android.hardware.bluetooth_le.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.bluetooth_le.xml \
     vendor/samsung/a10/proprietary/vendor/etc/permissions/android.hardware.bluetooth.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.bluetooth.xml \
