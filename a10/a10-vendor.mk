@@ -60,7 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a10/proprietary/vendor/bin/hw/vendor.samsung_slsi.hardware.configstore@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.samsung_slsi.hardware.configstore@1.0-service \
     vendor/samsung/a10/proprietary/vendor/bin/hw/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0-service \
     vendor/samsung/a10/proprietary/vendor/bin/hw/wpa_supplicant:$(TARGET_COPY_OUT_VENDOR)/bin/hw/wpa_supplicant \
-    vendor/samsung/a10/proprietary/vendor/bin/iof_vendor:$(TARGET_COPY_OUT_VENDOR)/bin/iof_vendor \
     vendor/samsung/a10/proprietary/vendor/bin/main_abox:$(TARGET_COPY_OUT_VENDOR)/bin/main_abox \
     vendor/samsung/a10/proprietary/vendor/bin/moredump:$(TARGET_COPY_OUT_VENDOR)/bin/moredump \
     vendor/samsung/a10/proprietary/vendor/bin/moredump.bin:$(TARGET_COPY_OUT_VENDOR)/bin/moredump.bin \
